@@ -8,7 +8,7 @@ Repositório técnico com perguntas e respostas sobre Visual Basic 6, organizada
 
 ## 📚 Tabela de Conteúdos
 
-- [Perguntas Básicas](#-perguntas-básicas)
+- [Perguntas Básicas](/documentos//01-BASICO.md-perguntas-básicas)
 - [Perguntas Intermediárias (Júnior)](#-perguntas-intermediárias-júnior)
 - [Perguntas Avançadas (Pleno/Sênior)](#-perguntas-avançadas-plenosênior)
 - [Arquitetura e Boas Práticas](#-arquitetura-e-boas-práticas)
