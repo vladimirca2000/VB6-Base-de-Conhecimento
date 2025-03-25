@@ -14,3 +14,10 @@ Repositório técnico com perguntas e respostas sobre Visual Basic 6, organizada
 - [Arquitetura e Boas Práticas](#-arquitetura-e-boas-práticas)
 - [Contribuição](#-contribuição)
 
+
+## 🤝 Contribuição
+Contribuições são bem-vindas! Siga os passos:
+
+1. Fork este repositório
+2. Adicione/atualize perguntas em /[nivel].md
+3. Envie um Pull Request
