@@ -12,7 +12,6 @@ Repositório técnico com perguntas e respostas sobre Visual Basic 6, organizada
 - [Perguntas Intermediárias (Júnior)](#-perguntas-intermediárias-júnior)
 - [Perguntas Avançadas (Pleno/Sênior)](#-perguntas-avançadas-plenosênior)
 - [Arquitetura e Boas Práticas](#-arquitetura-e-boas-práticas)
-- [Contribuição](#-contribuição)
 
 
 ## 🤝 Contribuição
