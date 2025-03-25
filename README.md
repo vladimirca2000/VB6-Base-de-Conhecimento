@@ -10,9 +10,9 @@ Repositório técnico com perguntas e respostas sobre Visual Basic 6, organizada
 
 - [Perguntas Básicas](/Documentos//01-BASICO.md)
 - [Perguntas Intermediárias (Júnior)](/Documentos//02-INTERMEDIARIO.md)
-- [Perguntas Difíceis (Pleno)](#-perguntas-avançadas-plenosênior)
-- [Perguntas Avançadas (Sênior)](#-perguntas-avançadas-plenosênior)
-- [Arquitetura e Boas Práticas (Especialista)](#-arquitetura-e-boas-práticas)
+- [Perguntas Difíceis (Pleno)](/Documentos/03-DIFICIL.md)
+- [Perguntas Avançadas (Sênior)](/Documentos/04-AVANCADO.md)
+- [Arquitetura e Boas Práticas (Especialista)](/Documentos/05-ESPECIALISTA.md)
 
 
 ## 🤝 Contribuição
