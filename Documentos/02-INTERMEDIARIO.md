@@ -1,6 +1,6 @@
-## 🟡 Perguntas Intermediárias
+# 🟡 Perguntas Intermediárias
 
-### 1. Como criar uma função que retorna um valor?
+## 1. Como criar uma função que retorna um valor?
 
 Para criar uma função que retorna um valor em VB6, você pode usar a palavra-chave `Function`. Aqui está um exemplo de como criar uma função que retorna a soma de dois números:
 
@@ -20,7 +20,7 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-#### Explicação:
+### Explicação:
 
 > - A função `Somar` é declarada com a palavra-chave `Function`, seguida pelo nome da função e os parâmetros que ela aceita (`a` e `b`).
 > - A função calcula a soma dos parâmetros `a` e `b` e retorna o resultado.
@@ -28,7 +28,7 @@ End Sub
 
 Este exemplo mostra como criar e usar uma função que retorna um valor em VB6.
 
-### 2. Qual a diferença entre Sub e Function?
+## 2. Qual a diferença entre Sub e Function?
 
 Resposta:
 
@@ -70,7 +70,7 @@ Private Sub Command2_Click()
 End Sub
 ```
 
-#### Explicação:
+### Explicação
 
 > No exemplo de Sub, o procedimento MostrarMensagem exibe uma mensagem usando MsgBox, mas não retorna nenhum valor.
 > No exemplo de Function, o procedimento Somar calcula a soma de dois números e retorna o resultado, que é então exibido em uma MsgBox.
@@ -122,7 +122,7 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-#### Explicação:
+### Explicação
 
 > Declaração das variáveis ADO: conn para a conexão e rs para o recordset.
 >String de conexão: Substitua "Provider=SQLOLEDB;Data Source=servidor;Initial Catalog=banco_de_dados;User ID=usuario;Password=senha;" com as informações do seu banco de dados.
@@ -133,8 +133,7 @@ End Sub
 
 Este exemplo mostra como conectar a um banco de dados, executar uma consulta e exibir os resultados usando ADO em VB6 usando Connection e Recordset.
 
-
-### 4. O que é On Error Resume Next?
+## 4. O que é On Error Resume Next?
 
 Resposta:
 
@@ -171,7 +170,7 @@ Private Sub ExemploOnErrorResumeNext()
 End Sub
 ```
 
-#### Explicação:
+### Explicação
 
 > On Error Resume Next: Habilita o tratamento de erro, permitindo que o código continue na linha seguinte se ocorrer um erro.
 > Err.Number: Verifica se ocorreu um erro. Se Err.Number for diferente de 0, significa que um erro ocorreu.
@@ -181,17 +180,7 @@ End Sub
 
 Este exemplo mostra como usar On Error Resume Next para continuar a execução do código mesmo se ocorrer um erro, e como verificar e tratar o erro usando o objeto Err.
 
-### 5. Como ler um arquivo de texto?
-
-Resposta
-
-Para ler um arquivo de texto em VB6, você pode usar as funções de entrada/saída de arquivo fornecidas pelo VB6. Aqui está um exemplo de como fazer isso:
-
-```vb
-
-```
-
-### 5. Como ler um arquivo de texto?
+## 5. Como ler um arquivo de texto?
 
 Para ler um arquivo de texto em VB6, você pode usar as funções de entrada/saída de arquivo fornecidas pelo VB6. Aqui está um exemplo de como fazer isso:
 
@@ -230,7 +219,7 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-### Explicação:
+### Explicação
 > **caminhoArquivo**: Especifica o caminho do arquivo de texto que você deseja ler.
 > **Open caminhoArquivo For Input As #1**: Abre o arquivo para leitura.
 > **Do While Not EOF(1)**: Loop que continua até o final do arquivo (EOF).

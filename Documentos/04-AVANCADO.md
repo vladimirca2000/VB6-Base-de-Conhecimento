@@ -1,6 +1,6 @@
-## 🔴 Perguntas Avançadas
+# 🔴 Perguntas Avançadas
 
-### 1. Como lidar com vazamentos de memória em VB6?
+## 1. Como lidar com vazamentos de memória em VB6?
 
 Resposta:
 
@@ -69,7 +69,7 @@ End Sub
 Seguindo essas práticas, você pode minimizar e lidar com vazamentos de memória em VB6.
 
 
-### 2. Como integrar VB6 com APIs REST modernas?
+## 2. Como integrar VB6 com APIs REST modernas?
 
 Resposta:
 

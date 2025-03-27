@@ -1,6 +1,6 @@
-## 🟡 Perguntas Difícil
+# 🟡 Perguntas Difícil
 
-### 1. Como criar um componente COM reutilizável em VB6?
+## 1. Como criar um componente COM reutilizável em VB6?
 
 Resposta:
 
@@ -64,7 +64,7 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-### 1. Como criar um componente COM reutilizável em VB6?
+## 2. Como criar um componente COM reutilizável em VB6?
 
 Para criar um componente COM reutilizável em VB6, você pode seguir os passos abaixo:
 
@@ -139,7 +139,7 @@ End Sub
 
 Este exemplo mostra como criar, compilar, registrar e usar um componente COM reutilizável em VB6.
 
-### 2. O que é Early Binding vs Late Binding?
+## 3. O que é Early Binding vs Late Binding?
 
 Resposta:
 
@@ -191,7 +191,7 @@ Private Sub ExemploLateBinding()
 End Sub
 ```
 
-### 2. O que é Early Binding vs Late Binding?
+## 4. O que é Early Binding vs Late Binding?
 
 Resposta:
 
@@ -250,7 +250,7 @@ End Sub
 
 Esses exemplos mostram como usar Early Binding e Late Binding em VB6, destacando as diferenças e vantagens de cada abordagem.
 
-### 3. Como implementar herança em VB6?
+### 5. Como implementar herança em VB6?
 
 Resposta:
 

@@ -1,6 +1,6 @@
-## 🟢 Perguntas Básicas
+# 🟢 Perguntas Básicas
 
-### 1. O que é o Option Explicit e por que é importante?
+## 1. O que é o Option Explicit e por que é importante?
 
 Resposta:
 
@@ -13,7 +13,7 @@ Dim x As Integer  ' Declaração obrigatória
 x = 10
 ```
 
-### 2. Como declarar uma variável do tipo Integer em VB6?
+## 2. Como declarar uma variável do tipo Integer em VB6?
 
 Resposta:
 
@@ -23,7 +23,7 @@ Dim idade As Integer. Tipos primitivos incluem String, Boolean, Date, etc. Vari�
 Dim idade As Integer
 ```
 
-### 3.Como exibir uma mensagem ao usuário?
+## 3.Como exibir uma mensagem ao usuário?
 
 Resposta:
 
@@ -49,7 +49,7 @@ End If
 MsgBox "Ocorreu um erro!", vbCritical, "Erro"
 ```
 
-### 4. Para que serve o evento Click de um CommandButton?
+## 4. Para que serve o evento Click de um CommandButton?
 
 Resposta:
 
@@ -61,7 +61,7 @@ Private Sub Command1_Click()
 End Sub
 ```
 
-### 5. O que é um TextBox e como acessar seu conteúdo?
+## 5. O que é um TextBox e como acessar seu conteúdo?
 
 Resposta:
 
@@ -82,7 +82,7 @@ Private Sub Command2_Click()
 End Sub
 ```
 
-### 6. O que é o evento Load de um formulário?
+## 6. O que é o evento Load de um formulário?
 
 Resposta:
 
@@ -96,7 +96,7 @@ Private Sub Form_Load()
 End Sub
 ```
 
-### 7. Como comentar uma linha em VB6?
+## 7. Como comentar uma linha em VB6?
 
 Resposta:
 
@@ -106,7 +106,7 @@ Use ' ou Rem.
 ' Este é um comentário
 ```
 
-### 8. Qual a diferença entre Dim, Private e Public?
+## 8. Qual a diferença entre Dim, Private e Public?
 
 Resposta:
 
@@ -144,7 +144,7 @@ Private Sub IncrementarContadorModulo()
 End Sub
 ```
 
-### 9. Para que serve e como usar um loop For...Next?
+## 9. Para que serve e como usar um loop For...Next?
 
 É usado para repetir um bloco de código um número específico de vezes. Ele é útil quando você sabe com antecedência quantas vezes deseja executar o bloco de código.
 
@@ -165,7 +165,7 @@ Private Sub ExemploForNext()
 End Sub
 ```
 
-### 10. O que é o If...Then...Else?
+## 10. O que é o If...Then...Else?
 
 permite executar diferentes blocos de código com base em uma condição. Se a condição for verdadeira, o bloco de código após Then é executado. Se a condição for falsa, o bloco de código após Else (se presente) é executado.
 
