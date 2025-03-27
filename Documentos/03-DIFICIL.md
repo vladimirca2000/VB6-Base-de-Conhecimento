@@ -146,6 +146,7 @@ Resposta:
 **Early Binding e Late Binding** são dois métodos de vinculação de objetos em tempo de execução em VB6.
 
 **Early Binding:**
+
 * Definição: Early Binding ocorre quando você define explicitamente os tipos de objetos em tempo de design, permitindo que o compilador verifique a existência dos métodos e propriedades durante a compilação.
 * Vantagens:
 Melhor desempenho, pois o compilador pode otimizar o código.
@@ -169,6 +170,7 @@ End Sub
 
 ```
 **Late Binding:**
+
 * Definição: Late Binding ocorre quando você define os objetos como genéricos (`Object`) e os métodos e propriedades são resolvidos em tempo de execução.
 * Vantagens:
     * Flexibilidade, pois não requer que a biblioteca de objetos esteja disponível em tempo de design.
@@ -243,7 +245,7 @@ Private Sub ExemploLateBinding()
 End Sub
 ```
 
-#### Explicação:
+### Explicação:
 
 * **Early Binding**: O tipo do objeto é conhecido em tempo de design, permitindo que o compilador verifique a existência dos métodos e propriedades. Isso resulta em melhor desempenho e suporte a IntelliSense.
 * **Late Binding**: O tipo do objeto é resolvido em tempo de execução, proporcionando maior flexibilidade, mas com desempenho mais lento e sem verificação de erros em tempo de compilação.

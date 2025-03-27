@@ -75,7 +75,7 @@ Resposta:
 
 Para integrar VB6 com APIs REST modernas, você pode usar o componente `Microsoft XML (MSXML)` para enviar requisições HTTP e processar as respostas. Aqui está um exemplo de como fazer isso:
 
-<hr>
+---
 
 #### Passos para integrar VB6 com APIs REST
 
@@ -175,7 +175,7 @@ End Sub
 
     * Sempre verifique o código de status (`http.Status`) para garantir que a requisição foi bem-sucedida.
 
-<hr>
+---
 
 #### Resumo:
 

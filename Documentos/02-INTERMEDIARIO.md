@@ -76,7 +76,7 @@ End Sub
 > No exemplo de Function, o procedimento Somar calcula a soma de dois números e retorna o resultado, que é então exibido em uma MsgBox.
 > Esses exemplos mostram como usar Sub e Function em VB6 e destacam a principal diferença entre eles: Sub não retorna um valor, enquanto Function retorna um valor.
 
-### 3. Como conectar a um banco de dados usando ADO?
+## 3. Como conectar a um banco de dados usando ADO?
 
 Resposta:
 
