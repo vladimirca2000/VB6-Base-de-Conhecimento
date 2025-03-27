@@ -1,5 +1,6 @@
 # VB6 Base de Conhecimento
-Estou montando uma base de conhecimento em Visual Basic 6
+Estou montando uma base de conhecimento em Visual Basic 6, está apenas no inicio, tenho alguns conteudos ainda para lançar. <br>
+Não considere concluido, está em desenvolvimento e aguardando contribuições.
 
 Repositório técnico com perguntas e respostas sobre Visual Basic 6, organizadas por nível de experiência. Ideal para desenvolvedores, recrutadores e entusiastas de sistemas legados.
 
