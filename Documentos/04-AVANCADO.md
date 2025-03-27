@@ -59,7 +59,7 @@ End Sub
 5. Monitorar o uso de memória:
     * Use ferramentas externas ou depuradores para monitorar o uso de memória do aplicativo e identificar possíveis vazamentos.
 
-#### Resumo:
+### Resumo:
 * Sempre defina objetos como Nothing após usá-los.
 * Feche conexões e libere recursos externos.
 * Evite referências circulares entre objetos.
@@ -77,7 +77,7 @@ Para integrar VB6 com APIs REST modernas, você pode usar o componente `Microsof
 
 ---
 
-#### Passos para integrar VB6 com APIs REST
+### Passos para integrar VB6 com APIs REST
 
 1. Adicionar referência ao MSXML:
 
@@ -155,7 +155,7 @@ Private Sub RequisicaoPOST()
 End Sub
 ```
 
-#### Explicação
+### Explicação
 
 1. Adicionar referência ao **MSXML**:
 
@@ -177,7 +177,7 @@ End Sub
 
 ---
 
-#### Resumo:
+### Resumo:
 
 * Use o componente `MSXML` para enviar requisições HTTP.
 * Configure o método (`GET, POST`, etc.) e os cabeçalhos adequados.
